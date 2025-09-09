@@ -98,6 +98,7 @@
      object-fit: cover;
   -o-object-position: left 29% top 0;
      object-position: left 29% top 0;
+  pointer-events: none;
 }
 .header__video::after {
   content: "";
@@ -137,6 +138,7 @@
   top: 0;
   bottom: auto;
   z-index: 9999;
+  overflow: hidden;
 }
 
 .scroll_down {
