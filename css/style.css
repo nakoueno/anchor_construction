@@ -96,6 +96,7 @@
   -o-object-fit: cover;
      object-fit: cover;
   pointer-events: none;
+  overflow: hidden;
 }
 .header__video .left {
   -o-object-position: left 29% top 0;
