@@ -39,7 +39,6 @@ $breakpoint: (
 
 #header {
 	position: relative;
-	overflow: hidden;
 }
 
 .header__txt01 {
@@ -96,7 +95,7 @@ $breakpoint: (
 	position: relative;
 	top: 0;
 	left: 0;
-	overflow: hidden;
+	// overflow: hidden;
 	z-index: -2;
 	video {
 		// position: absolute;
