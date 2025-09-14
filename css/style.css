@@ -26,6 +26,7 @@
 -------------------- */
 #header {
   position: relative;
+  overflow: hidden;
 }
 
 .header__txt01 {
@@ -144,7 +145,6 @@
   top: 0;
   bottom: auto;
   z-index: 9999;
-  overflow: hidden;
 }
 
 .scroll_down {
